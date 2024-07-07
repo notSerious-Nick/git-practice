@@ -12,7 +12,7 @@ Add your Github username below:
 -   [x] kangdongil
 -   [x] dkssyddico
 -   [x] confidential-nt
--   [x] Yangseungchan
+-   [x] Yangseungcha
 -   [x] supermonkey
 -   [x] eunoialim
 -   [x] ystime25
